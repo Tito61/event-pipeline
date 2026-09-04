@@ -1,0 +1,93 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "id": "vvG1iZ4Ml0k7wP",
+        "name": "Istanbul Jazz Nights: Autumn Session",
+        "url": "https://www.ticketmaster.com/event/vvG1iZ4Ml0k7wP",
+        "images": [
+          {"url": "https://s1.ticketm.net/dam/a/example_jazz_16_9.jpg", "width": 1024, "height": 576}
+        ],
+        "dates": {
+          "start": {"localDate": "2026-10-14", "localTime": "20:00:00", "dateTBD": false},
+          "timezone": "Europe/Istanbul"
+        },
+        "classifications": [
+          {"segment": {"name": "Music"}, "genre": {"name": "Jazz"}}
+        ],
+        "priceRanges": [
+          {"min": 450.0, "max": 1200.0, "currency": "TRY"}
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Zorlu PSM",
+              "city": {"name": "Istanbul"},
+              "address": {"line1": "Levazim, Koru Sk. No:2"},
+              "location": {"latitude": "41.0665", "longitude": "29.0173"}
+            }
+          ]
+        },
+        "info": "An evening of contemporary jazz featuring local and touring ensembles."
+      },
+      {
+        "id": "abT9kX2Nm1p8qR",
+        "name": "Ankara Food & Music Festival",
+        "url": "https://www.ticketmaster.com/event/abT9kX2Nm1p8qR",
+        "images": [
+          {"url": "https://s1.ticketm.net/dam/a/example_festival_16_9.jpg", "width": 1024, "height": 576}
+        ],
+        "dates": {
+          "start": {"localDate": "2026-10-18", "localTime": "12:00:00", "dateTBD": false},
+          "timezone": "Europe/Istanbul"
+        },
+        "classifications": [
+          {"segment": {"name": "Miscellaneous"}, "genre": {"name": "Food & Drink"}}
+        ],
+        "priceRanges": [
+          {"min": 0.0, "max": 0.0, "currency": "TRY"}
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Kızılay Square",
+              "city": {"name": "Ankara"},
+              "address": {"line1": "Kızılay Meydanı"},
+              "location": {"latitude": "39.9208", "longitude": "32.8541"}
+            }
+          ]
+        },
+        "info": "Free outdoor festival with local food vendors and live performances."
+      },
+      {
+        "id": "zzC3lY5Op2q9sT",
+        "name": "Munich Electronic Music Underground",
+        "url": "https://www.ticketmaster.com/event/zzC3lY5Op2q9sT",
+        "images": [
+          {"url": "https://s1.ticketm.net/dam/a/example_electronic_16_9.jpg", "width": 1024, "height": 576}
+        ],
+        "dates": {
+          "start": {"localDate": "2026-10-20", "localTime": "23:00:00", "dateTBD": false},
+          "timezone": "Europe/Berlin"
+        },
+        "classifications": [
+          {"segment": {"name": "Music"}, "genre": {"name": "Electronic"}}
+        ],
+        "priceRanges": [
+          {"min": 20.0, "max": 45.0, "currency": "EUR"}
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Blitz Club",
+              "city": {"name": "Munich"},
+              "address": {"line1": "Hansastraße 40"},
+              "location": {"latitude": "48.1245", "longitude": "11.5449"}
+            }
+          ]
+        },
+        "info": "Underground techno and house night with rotating local DJs."
+      }
+    ]
+  }
+}
